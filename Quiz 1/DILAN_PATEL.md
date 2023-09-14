@@ -14,6 +14,6 @@ Here is a table of my favorite sports teams, what league they are in, and where 
 
 **Pardon My Take**
 <figure>
-  <img src="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/dpr_2.0/f_auto/prd/olstsfd0yrhs3yrznrcr.jpg" alt = "PMT">
+  <img src="https://pbs.twimg.com/media/FNV_dBFXwAgg5yF?format=jpg&name=large" alt = "PMT">
   <figcaption>The members of my favorite podcast, Pardon My Take</figcaption>
 </figure>
