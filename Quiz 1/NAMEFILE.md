@@ -20,11 +20,19 @@ Michael Matz
 
 Zoe Matz
 
+Dilan Patel
+
 Liz Tran
 
 Patrick Brewton  
 
 Rosalind Chang
+
+Yuhan Wei
+
+Kalyn Watt
+
+Chris Schaub  
 
 Mirnada Ma
 
