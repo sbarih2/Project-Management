@@ -20,6 +20,8 @@ Michael Matz
 
 Zoe Matz
 
+Dilan Patel
+
 Liz Tran
 
 Patrick Brewton  
@@ -28,4 +30,8 @@ Rosalind Chang
 
 Yuhan Wei
 
-Chris Schaub
+Chris Schaub  
+
+Mirnada Ma
+
+Yuhan Wei   
