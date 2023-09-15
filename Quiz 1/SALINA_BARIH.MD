@@ -8,5 +8,4 @@
 | Work Hours |
 | ---------- |
 | Weekdays | 
-| --------- | 
 | 9 AM - 5 PM |
