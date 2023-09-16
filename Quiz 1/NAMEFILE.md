@@ -10,6 +10,8 @@ William  Bechtel
 
 Danielle Garon
 
+Cristian Perez
+
 Shiva Nakka
 
 Raihan Athallah
