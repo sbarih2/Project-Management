@@ -66,5 +66,8 @@ Building a sustainable machine learning model is a first priority using python. 
 
 To make it readable to all the users, visualizing all the gathered data would be the best. Most effective way is a Dashboard, where we   build a data pipeline and visualize the statistics as you can see below. The tool is called Metabase which is an open source tool that allows for powerful data instrumentation, visualization, and querying. In order to update the datasets that we are receiving, we also have to set up continuous integration to the data pipeline via one of the cloud services, which is AWS. By setting up the CI, everytime we update the data, it will immediately apply to the pipeline
 
+| ![](https://miro.medium.com/v2/resize:fit:1400/1*RxZ_CZkR7crXIxlJgOrBIw.png) | 
+| :--: |
+| <b> Islahuzaman, Gustiyan. “Crafting an Informative House Price Dashboard Using Tableau for Comprehensive Insights.” Medium, Medium, 2 Nov. 2023, gustiyaniz.medium.com/crafting-an-informative-house-price-dashboard-using-tableau-for-comprehensive-insights-5a4cb176b497.  <b>| 
 
 
