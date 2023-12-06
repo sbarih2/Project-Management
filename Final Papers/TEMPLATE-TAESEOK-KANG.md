@@ -20,4 +20,17 @@ it will be essential to  enable the continuous integration for the live informat
 
 While researching the house prices in the United States because of the parent chores, My parent seem to struggle to decide whether it is a good time to buy or sell the house. How can house price prediction machine learning model can help people as an open source platform Informed Buying and Selling Decisions: Potential homebuyers can use house price predictions to make informed decisions about when and where to buy a property. Sellers can also benefit by pricing their homes competitively based on market trends. Financing: House price predictions can aid individuals in financial planning. Knowing the potential future value of a property can help homeowners plan for future expenses, investmenial Plats, and retirement. Real Estate Investment: Investors can use house price predictions to identify lucrative investment opportunities. Predicting the appreciation of property values helps investors make strategic decisions about buying, holding, or selling real estate assets. Risk Management: Financial institutions and mortgage lenders can use house price predictions to assess the risk associated with loans. This helps in making informed decisions about lending and managing potential financial risks
 
+## <a name="Bresearch"></a>Background Research
+
+Machine Learning is a branch of AI and Computer Science. By feeding information like us humans to the algorithm by use of the data, it improves the accuracy. 
+According to IBM “Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses….” 
+There are various machine Learning techniques to build a model, but there are three major techniques that are commonly used. These techniques are based on statistical knowledge. 
+First is Linear Regression, Linear regression is a technique that is used to study the relationship between independent variables and target variables.  next is Logistic Regression, this is also the regression and lastly it is Random Forest. 
+
+Below picture is the large application of Machine Learning. As we can see, a large application of machine learning is affecting all the industries and affecting or maybe in bad words threatening people’s jobs. In many ways, they are more accurate than humans and do it cheaper than hiring a human. Machine learning's transformative impact on industries is undeniable, but it also raises concerns about its potential to automate certain tasks, potentially affecting employment. While ML systems offer increased accuracy and efficiency, there is an ongoing debate about the implications for the workforce and the need for reskilling in response to changing job requirements.
+
+| ![](https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png) | 
+| :--: |
+| <b>Table 1</b>|  
+
 
