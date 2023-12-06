@@ -31,6 +31,16 @@ Below picture is the large application of Machine Learning. As we can see, a lar
 
 | ![](https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png) | 
 | :--: |
-| <b>“Applications of Machine Learning - Javatpoint.” Www.Javatpoint.Com, www.javatpoint.com/applications-of-machine-learning. <b>|  
+| <b>“Applications of Machine Learning - Javatpoint.” Www.Javatpoint.Com, www.javatpoint.com/applications-of-machine-learning. <b>| 
+
+
+## Data Dashboard 
+Data Dashboard seems to be the most effective way to have interactive communication with the general public who wants to buy or sell the house. Since, the main audience of the open source platform is for any users. This is the overall technical side of how the dashboard would work.  Get the API from the dataset from the government house price prediction. extract the data using the data pipeline and transform these into the visualization and load it into the cloud platform, During this process we will have to manage the Continuous integration part to make the dataset live. After loading these databases into the warehouse, It will go to the metabase dashboard. Continuous integration may be a term that is unfamiliar, it is a code that extracts the dataset every 5 minutes or time we set and keeps it live.
+
+| ![](![image](https://github.com/OREL-group/Project-Management/assets/112116966/6001832b-2177-44f2-8b2f-6fdc9361f044)
+) | 
+| :--: |
+| <b>“Designing a Data Project to Impress Hiring Managers.” Designing a Data Project to Impress Hiring Managers ·, 27 Oct. 2022, www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/.</b>|  
+
 
 
