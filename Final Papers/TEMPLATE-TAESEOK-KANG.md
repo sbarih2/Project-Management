@@ -90,5 +90,5 @@ In conclusion, the development of an open-source model for predicting house pric
 “Designing a Data Project to Impress Hiring Managers.” Designing a Data Project to Impress Hiring Managers ·, 27 Oct. 2022, www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/. 
 Islahuzaman, Gustiyan. “Crafting an Informative House Price Dashboard Using Tableau for Comprehensive Insights.” Medium, Medium, 2 Nov. 2023, gustiyaniz.medium.com/crafting-an-informative-house-price-dashboard-using-tableau-for-comprehensive-insights-5a4cb176b497. 
 
-“What Is Machine Learning?” IBM, www.ibm.com/topics/machine-learnin
+“What Is Machine Learning?” IBM, www.ibm.com/topics/machine-learning
 
