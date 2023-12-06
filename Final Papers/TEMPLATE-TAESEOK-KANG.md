@@ -43,4 +43,7 @@ Data Dashboard seems to be the most effective way to have interactive communicat
 | <b>“Designing a Data Project to Impress Hiring Managers.” Designing a Data Project to Impress Hiring Managers ·, 27 Oct. 2022, www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/.</b>|  
 
 
+## <a name="Targeta"></a>Target Audience
+
+
 
