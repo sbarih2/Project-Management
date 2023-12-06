@@ -16,3 +16,8 @@ This open-source methodology seeks to empower a broad user base by offering a tr
 To ensure the project's relevance and influence in the ever-changing U.S. real estate sector, 
 it will be essential to  enable the continuous integration for the live information, innovate modeling methodologies, and adhere to ethical principles.
 
+## <a name="Intro"></a>Introduction
+
+While researching the house prices in the United States because of the parent chores, My parent seem to struggle to decide whether it is a good time to buy or sell the house. How can house price prediction machine learning model can help people as an open source platform Informed Buying and Selling Decisions: Potential homebuyers can use house price predictions to make informed decisions about when and where to buy a property. Sellers can also benefit by pricing their homes competitively based on market trends. Financing: House price predictions can aid individuals in financial planning. Knowing the potential future value of a property can help homeowners plan for future expenses, investmenial Plats, and retirement. Real Estate Investment: Investors can use house price predictions to identify lucrative investment opportunities. Predicting the appreciation of property values helps investors make strategic decisions about buying, holding, or selling real estate assets. Risk Management: Financial institutions and mortgage lenders can use house price predictions to assess the risk associated with loans. This helps in making informed decisions about lending and managing potential financial risks
+
+
