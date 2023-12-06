@@ -31,6 +31,6 @@ Below picture is the large application of Machine Learning. As we can see, a lar
 
 | ![](https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png) | 
 | :--: |
-| <b>Table 1</b>|  
+| <b>“Applications of Machine Learning - Javatpoint.” Www.Javatpoint.Com, www.javatpoint.com/applications-of-machine-learning. Accessed 5 Dec. 2023./b>|  
 
 
