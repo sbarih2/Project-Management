@@ -1,5 +1,5 @@
 ## Predicting House price from an open source development model
-Taeseok Kang, Fall23, [link to personal website](https://www.linkedin.com/in/taeseok-kang-515608221/)
+Taeseok Kang, Fall23, [Linkedin Page](https://www.linkedin.com/in/taeseok-kang-515608221/)
 
 
 ## <a name="Abst"></a>Abstract
