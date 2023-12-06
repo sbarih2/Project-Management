@@ -45,5 +45,22 @@ Data Dashboard seems to be the most effective way to have interactive communicat
 
 ## <a name="Targeta"></a>Target Audience
 
+Target audience is mainly for the public because it is an open source platform, it will be a user -friendly interface that can be accessible to anyone and this will provide to the audience better understanding about the house price. Moreover, more specifically, it can also be for real estate professionals or consulting professionals. By having accurate predictions they can come up with an effective price strategy, asset value and market trends.  Homebuyers and Sellers: Individuals looking to buy or sell properties can use the model to estimate fair market values, aiding in negotiations and informed decision-making. Investors: Real estate investors seeking opportunities in the U.S. market can leverage the predictive model to identify potentially lucrative areas and optimize their investment portfolios.  Financial Institutions: Banks and mortgage lenders may find value in the model for risk assessment, loan underwriting, and determining property values in different regions. Policy Makers: Government agencies and policymakers can use the model to analyze housing market trends, inform housing policies, and address affordability and accessibility concerns
+
+## <a name="Goal"></a>Goal
+
+My vision for the project is to build an accurate and predictive model and to apply this to an open source model so anyone can access it. This model can be a tool for anyone who struggles to decide to buy or sell the house. Not only that by being an open source model, users can share the local information that only people would know by reporting and sharing. 
+Furthermore, it can help real estate agents and consulting companies to convince the clients what it comes to purchasing or selling the house. By showing this, it can help prevent fraud by having validation from agents and companies. My ultimate goal is also to build a community around a model that I built and improve and grow.
+
+## <a name="Development"></a>Development
+
+The community that first needs to be reached is the government. By gathering the dataset of the housing price from the government nationwide would have an accurate and legit machine learning model. Also collaborating with real-estate and consulting companies. It can help grow the model faster and have trust from the users. To do that Sharing a development process through my github repository. This can help us to build a prototype and get feedback during the pre-launch stage and even after the launch stage. Getting constructive feedback from the users matters for all. Feedback such as request form and common questions Q&A would be helpful. 
+
+Building a sustainable machine learning model is a first priority using python. I have built a model using a Random forest with a tensorflow and it seems like it has good RMSE for the dataset. Data preprocessing also needs to be done before building a model as well. Furthermore, not only random forest but XG/Gradient boosting can be used and compare the model RMSE/MSE. This needs to be further developed based on the dataset we get. In order to develop a nearly perfect predictive model, various developers will work collaboratively. 
+
+
+| ![](https://github.com/taeskang02/photos/blob/main/yam.png?raw=true) | 
+| :--: |
+| <b> My own Machine Learning Model using Tensor Flow <b>| 
 
 
