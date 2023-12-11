@@ -1,0 +1,70 @@
+## EqualWrites
+Patrick Brewton
+Fall 2023
+
+
+### Abstract
+
+This paper on the proposed open source project, EqualWrites, serves to introduce the idea of creating a free, open platform for journalists, writers and other sources of world information to deliver and connect with readers and consumers from all around the world. Utilizing concepts learned from Dr. Alicea, background information/context, tools of inspiration, and a hypothetical timeline.
+
+### Introduction
+
+With the rise of the internet, journalism has reached new peaks and heights never really thought possible before. With the touch of a button, we can access information about places hundreds of thousands miles away in the world. One of my first personal experiences with this was reading about the War on Terroism not from American sources but from Iraqi journalists and their own perspective on X (known at the time as Twitter). In a report by Christopher Hayes titled “Journalism in a Digital Age”, he mentions how the internet has made it possible for anyone to publish/edit news, which helps beat out the big news giants like British Broadcasting Company and Disney. Online journalism in a way, helped bring more clarity to many given situations. Bringing it back to the example of how I was first exposed to this new type of journaling to the War on Terrosim was the use of different assets than text such as video, pictures and audio. In the article he explains this phenomena as well: “Second, online journalism opens up new ways of storytelling, primarily through the technical components of the new medium. Simply put, online journalists can provide a variety of media--text, audio, video, and photographs--unlike other media” (Harper, 2005 p. 1). Seeing first hand who’s homes really were destroyed, whose lives were uprooted and what families were displaced turned war opinion on its head and called to light what atrocities were committed. However, in the continued rise of online journalism we have also seen the rise of other effects such as misinformation, propaganda and censorship. According to Pew Research, “Nearly one-in-three U.S. adults (32%) say they often see fake political news online, while 39% sometimes see such stories and 26% hardly ever or never do”. In the rise of online journalism, we have seen that recently there has been a rise in the value of clicks over genuinity, quantity over quality. EqualWrites wishes to be able to combat this through our platform and expand quality information for all.
+
+#### Purpose and Goals    
+
+EqualWrites has 4 main goals: Quality, Reach, Education, Network. Fair journalism is crucial in combating the widespread misinformation and disinformation prevalent in today's media landscape. "EqualWrites" can provide a platform for accurate, balanced, and diverse perspectives on social justice, equality, equity, and world problems, helping people make informed decisions and participate actively in their communities. Starting off with quality journalism, I want to ensure that pieces are written with integrity and unbiased. It is important for news that reports on world events to be presented to any consumer in a matter of fact way, even if the material is very grim or upsetting. This will build up trust in our media with the consumers we reach and protect the brand as a whole. Reach is our second goal. EqualWrites should be able to reach the relevant audiences to which news would apply. In a world where the West often serves as the centerpiece of information, I want to be able to change this centerpiece to have information serve the audiences it intends to serve. Furthermore, having educational resources to teach others about journalism practices such as identifying fake news, checking sources and anything else related is my third goal. Users becoming educated about any matter would help all other aspects of quality, network and reach. Finally, EqualWrites, like many other open source platforms, should create a network to connect journalists and readers alike to share opinions, information and support with one another. The act of community building is pertinent to ensuring all the other goals from before. We are also stronger together than apart and this would be the most important piece to establish.
+
+#### Intended Tools For Use        
+
+The goal would be to model EqualWrites after some existing platforms such as Wikipedia and StackOverflow because of two major features. I idolize how Wikipedia displays their written and shared articles with the sources cited at the bottom. However, I think one way EqualWrites could capitalize off this format and make it better for our goals is to include the community feature of being able to quote parts of the initial post and add your own comment which others could upvote/downvote like on StackOverflow. Next starting off with a way for users to filter through articles that are relevant for them to reach, on the left side of screens I want a feature for users to filter by region/country. Obviously there are a lot of locations to filter so having a search at the top would make this easier for users to find their country and make it listed in alphabetical order. After filtering by country, then the next big problem would be filtering by what type of news article. One solution to this would be having an algorithm that would take the article keywords and title and give the best section title that article would fit in. Users then would have a choice to confirm or deny this listing chosen as a secondary quality check option for the article. Under articles, users would have to be able to add their own sources to add to the articles credibility, comment and add opinions, reply to others and even upvote/downvote responses. Finally, there would be a private messaging, and group chat feature available to expand on the community aspect of the platform. I want users to be able to form communities to network and spread education resources with each other that would add to the credibility of EqualWrites.
+
+### Target Audience             
+
+The target audience primarily would be those who don’t have access to information. However there are a couple of problems when it comes to making that statement. According to the UN Press in 2021, “Almost half the world’s population, 3.7 billion people, the majority of them women, and most in developing countries, are still offline”. Currently combating this problem is out of EqualWrites scope so focusing on those who do have access and learning where the discrepancies lies would be key. According to Pew Research, ages 18-49 would be the easiest demographic to target when it comes to initial interest. However, I believe capturing the target age ranges of 50+ into EqualWrites would be a long term goal since we see that they access their information through more traditional means and media.
+
+#### Community 
+
+Building community is often one of the hardest things when planning this type of open source project. There are so many ways we divide ourselves into groups such as race, ethnicity, political views, gender and the list could go on forever. In my opinion social grouping is inevitable when you bring a group together even in common causes. However, what I think is preventable is how we enforce interaction between groups or people when it comes to community on EqualWrites. For this reason having a strict sense of code of conduct being displayed when you create an account and also being displayed in the homepage would be key. This would in turn set expectations and dull confusion when actions are taken. Some preliminary view of this could be:
+
+Code of Conduct V1-A1:
+1. EqualWrites supports the free exchange of ideas and information even when they are controversial or not viewed as popular. This does not protect articles, comments or post that include verbal attacks, insults, discriminatory language or other comments deemed inappropriate through a review. 
+
+Pass Case Comment
+The United States had a right to declare war on terrorism after the 2001 attacks in NYC even if it meant that there would be civilian casualties because of the inevitabilities of war. 
+
+Fail Case Comment
+The United States had a right to declare war on terrorism because after the 2001 attacks in NYC we can’t consider those from the middle east human now. 
+
+The pass case here made a comment that may be unpopular in a lot of communities but didn’t attack, discriminate or insult a specific person/group/thing. However the fail case attacked those from the middle east using a discriminatory phrase that isn’t congruent to discussion or collaboration. These rules would ideally be enforced by a group of moderators who do not post their own articles on EqualWrites to protect against bias in this regard.  
+
+#### Timeline
+
+The ideal timeline would happen in 3 phases of development. The first phase would be the planning and development stage. This stage would last 6 months with months 1 through 3, defining our scope and mission, designing the initial drafts of the platform and finally discovering our identity. This would be a lot of the groundwork where we might not see results but we see a vision. Months 4 through 6 would be refining our initial work, pushing our first advertising and marketing movement and then evaluating our progress with the end of phase 1.
+Phase 2 would be our growth and expansion phase. Months 7-10 have the goal of increasing our volume of users and articles on EqualWrites. The goal would be to start building our community and culture so that when we look for partnerships with other like-minded organizations and platforms we have an identity established. Then to finish the year with the end of phase 2 looking for a sustainable funding model and evaluating our progress are the goals. Finding a sustainable funding model would be the main goal of phase 2. EqualWrites is congruent on the identity and integrity we display. Getting funding that includes certain terms and conditions of what we can display, write or collaborate about would kill have the growth we would have had.
+Finally in phase 3 which has no specific timeline end like phase 1 and 2, would have the goals of long term funding and establish EqualWrites as a leading voice in journalism. 
+
+#### Licensing
+
+Choosing a license for EqualWrites as an open source platform is not as easy as it sounds. Out of the numerous popular licenses available, I have found that the Apache License would be the best use case scenario considering its ease of use and stricter regulations than other licenses such as the MIT license. Because of the release of the Apache License 2.0, there are a couple of features that attract more and more open source platforms. First is the patent clause that grants a user to use patents held by other contributors.  This is great because it encourages adoption by removing a lot of the fear of litigation of patents, promotes collaboration between users and just provides more legal certainty to users by clarifying their rights within the situation. There is also a termination clause that encourages a lot more fair use of the software. Essentially the termination clause says that if you use software licensed under Apache 2.0 you receive a patent license from the contributors. However, if you have your own patent under Apache 2.0 and you sue the contributors of the software for infringement, you forfeit the patent you received. Finally its expanded attribution requirements promotes transparency to identify individuals who were responsible for the development of additions and promotes accountability by knowing who contributed to hold them accountable for any malpractice.  
+
+#### Conclusion
+
+In conclusion, EqualWrites is a platform with 4 major ideals. The ability to have quality and relevant information, that is posted without bias or misinformation. The ability to reach the relevant audiences who would benefit from this information and knowledge and hopefully gain a better understanding of a topic. The ability to teach others about journalism and create a more educated world. Finally, the ability to create a network so vast and large that we have those from around the globe collaborating in a humane way. Moreover, EqualWrites will place a huge emphasis on how seamless the connection will be between the authors and audience. The overarching goal of efficient, quality information to users will foster a community where there would be huge gains to the understanding of diverse topics that people may have not had access to beforehand. By cultivating these collaborative ideas, we will demonstrate the transformative power of unity to the world.
+
+### Works Cited
+
+APACHE LICENSE, VERSION 2.0. (2019). Apache.org. https://www.apache.org/licenses/LICENSE-2.0
+
+Barthel, M., Mitchell, A., & Holcomb, J. (2016, December 15). Many Americans Believe Fake News Is Sowing Confusion. Pew Research Center’s Journalism Project; Pew Research Center. https://www.pewresearch.org/journalism/2016/12/15/many-americans-believe-fake-news-is-sowing-confusion/
+
+Harper, C. (2005). Journalism in a Digital Age. https://baskanlikreferandumu.siyasaliletisim.org/wp-content/uploads/2008/06/journalism-in-a-digital-age.pdf
+
+Open Source Licenses 101: Apache License 2.0 - FOSSA. (2021, February 6). Dependency Heaven. https://fossa.com/blog/open-source-licenses-101-apache-license-2-0/
+
+Shearer, E. (2021, January 12). More than eight-in-ten Americans get news from digital devices. Pew Research Center. https://www.pewresearch.org/short-reads/2021/01/12/more-than-eight-in-ten-americans-get-news-from-digital-devices/#:~:text=For%20those%20age%20groups%2C%20digital
+
+Tandoc, E. C. (2019). The facts of fake news: A research review. Sociology Compass, 13(9). https://doi.org/10.1111/soc4.12724
+
+With Almost Half of World’s Population Still Offline, Digital Divide Risks Becoming “New Face of Inequality”, Deputy Secretary-General Warns General Assembly | UN Press. (2021, April 27). Press.un.org. https://press.un.org/en/2021/dsgsm1579.doc.htm#:~:text=As%20the%20world%20becomes%20more
+
