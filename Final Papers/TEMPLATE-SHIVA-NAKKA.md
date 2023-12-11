@@ -47,7 +47,7 @@ In conclusion, I have always had a passion for working out as well as making tha
 
 
 Links:
-
+-
 
 1.“Open Source Project Management: A Complete Guide.” Open Source Project Management: A Complete Guide, www.zenhub.com/guides/open-source-project-management#:~:text=The%20open%20source%20model%20provides,for%20commercial%20products%20and%20services.
 
