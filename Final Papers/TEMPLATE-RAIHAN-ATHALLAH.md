@@ -120,7 +120,9 @@ In conclusion, this restaurant management platform serves to give its users the 
 
 ### Works Cited
 Beckett, Emma Liem. “How restaurants are bringing tech to the table in 2021.” Restaurant Dive, 28 January 2021, https://www.restaurantdive.com/news/how-restaurants-are-bringing-tech-to-the-table-in-2021/594124/. Accessed 12 December 2023.
+
 “Here's how QR code payments are convenient for people today.” The Economic Times, 27 February 2023, https://economictimes.indiatimes.com/industry/services/retail/heres-how-qr-code-payments-are-convenient-for-people-today/articleshow/98266583.cms. Accessed 13 December 2023.
+
 Tan, Michelle. “TRADITIONAL MENUS VS DIGITAL MENUS | by Michelle Tan.” Medium, 18 July 2021, https://medium.com/@michelletanrj92/traditional-menus-vs-digital-menus-66277782d9a8. Accessed 12 December 2023.
 
 
