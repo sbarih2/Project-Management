@@ -89,19 +89,21 @@ In conclusion, FreeFinder proposes a central platform for simplified navigating 
 
 ### References     
 
-AloisReitbauer. (2022). *open-source-canvas*. GitHub. 
-https://github.com/AloisReitbauer/open-source-canvas?tab=readme-ov-file
+AloisReitbauer. (2022). *open-source-canvas*. GitHub. <br> https://github.com/AloisReitbauer/open-source-canvas?tab=readme-ov-file
 
 <br>
-Codecademy Team. *Choosing an open source license*. Codeacademy.  https://www.codecademy.com/article/choosing-an-open-source-license 
+
+Codecademy Team. *Choosing an open source license*. Codeacademy.<br> https://www.codecademy.com/article/choosing-an-open-source-license 
 
 <br>
-Mozilla. (2016). *Open Leadership Training Series*. Mozilla. 
-https://mozilla.github.io/open-leadership-training-series/ 
+
+Mozilla. (2016). *Open Leadership Training Series*. Mozilla. <br> https://mozilla.github.io/open-leadership-training-series/ 
 
 <br>
-Coursera Staff. (2023). *4 phases of the Project Management Lifecycle explained*. https://www.coursera.org/articles/project-management-lifecycle 
+
+Coursera Staff. (2023). *4 phases of the Project Management Lifecycle explained*. <br> https://www.coursera.org/articles/project-management-lifecycle 
 
 <br>
-The Linux Foundation. *Open Source Guides: Starting an Open Source Project*. The Linux Foundation. https://www.linuxfoundation.org/resources/open-source-guides/starting-an-open-source-project
+
+The Linux Foundation. *Open Source Guides: Starting an Open Source Project*. The Linux Foundation. <br> https://www.linuxfoundation.org/resources/open-source-guides/starting-an-open-source-project
  
